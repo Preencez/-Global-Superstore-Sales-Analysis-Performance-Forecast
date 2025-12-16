@@ -1,5 +1,11 @@
 Project Overview
 
+<img width="1307" height="815" alt="Performace dashboard" src="https://github.com/user-attachments/assets/0ad491de-fc00-4c0a-bbdf-00b759882116" />
+
+<img width="790" height="504" alt="forecast" src="https://github.com/user-attachments/assets/87bef270-ca68-4b4b-ad07-ca2213d515f3" />
+
+
+
 This project analyzes historical sales performance for Global Superstore to identify key revenue drivers, customer behavior patterns, and long-term sales trends. The analysis combines descriptive analytics with a forward-looking sales outlook to support both operational review and strategic planning decisions.
 
 The dashboard is designed for business stakeholders who need a clear understanding of what has happened, what is driving performance, and where sales are likely headed under stable conditions.
